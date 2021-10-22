@@ -1,2 +1,2 @@
 # Jogo-da-velha
-Um jogo da velha com prática de javascript
+Um jogo da velha como prática de javascript
